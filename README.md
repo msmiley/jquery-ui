@@ -1,5 +1,14 @@
 # jquery-ui
 
-Source for @msmiley/jquery-ui npm package, a pre-built jquery-ui distribution
+pre-built jquery-ui distribution
 
 
+## Install
+
+```bash
+npm install @msmiley/jquery-ui
+```
+
+## License
+
+Same as jquery-ui
