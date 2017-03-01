@@ -1,6 +1,6 @@
 {
   "name": "@msmiley/jquery-ui",
-  "version": "1.12.1-1",
+  "version": "1.12.1-2",
   "devDependencies": {
     "jquery-ui": "1.12.1"
   },
