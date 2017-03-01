@@ -1,0 +1,10 @@
+{
+  "name": "@msmiley/jquery-ui",
+  "version": "1.12.1",
+  "devDependencies": {
+    "jquery-ui": "1.12.1"
+  },
+  "scripts": {
+    "publish": "cd ./node_modules/jquery-ui && npm install && ./node_modules/.bin/grunt requirejs concat && cp ./dist/jquery-ui.* ../.."
+  }
+}
